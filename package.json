@@ -1,5 +1,5 @@
 {
-  "name": "data-object",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
   "main": "script-exercicio.js",
   "scripts": {
@@ -7,7 +7,6 @@
     "dev": "npx webpack --mode development --watch"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
